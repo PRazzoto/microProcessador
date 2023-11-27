@@ -1,0 +1,79 @@
+v 4
+file . "mux_1x3.vhd" "13db0b01eaccecba61316991a98d01fdbb1d054d" "20231113144211.424":
+  entity mux_1x3 at 1( 0) + 0 on 359;
+  architecture a_mux_1x3 of mux_1x3 at 14( 287) + 2 on 360;
+file . "pc_n_soma_tb.vhd" "178f31f1d196d33b775cefe6e848ff1931ca36a7" "20231017124732.116":
+  entity pc_n_soma_tb at 1( 0) + 0 on 175;
+  architecture a_pc_n_soma_tb of pc_n_soma_tb at 9( 108) + 0 on 176;
+file . "pc.vhd" "0bc78a0bbe2148496c9d1f7dae1b93f96db5294a" "20231017124259.602":
+  entity pc at 1( 0) + 0 on 167;
+  architecture a_pc of pc at 16( 351) + 0 on 168;
+file . "st_mach_tb.vhd" "bb47c53199a84ea41a895bd607ffacc00cf8aae7" "20231016235624.534":
+  entity st_mach_tb at 1( 0) + 0 on 141;
+  architecture a_st_mach_tb of st_mach_tb at 8( 104) + 0 on 142;
+file . "rom.vhd" "57f68396f2c225a4f0f3e236ecb8f2da36885ae1" "20231110175439.525":
+  entity rom at 1( 0) + 0 on 303;
+  architecture a_rom of rom at 10( 236) + 0 on 304;
+file . "mux_1x8.vhd" "f3c8eb36e2d1cb078cc4aa2b40970322118845a4" "20231113122655.671":
+  entity mux_1x8 at 1( 0) + 0 on 313;
+  architecture a_mux_1x8 of mux_1x8 at 19( 425) + 2 on 314;
+file . "mux8.vhd" "87a7d8ccb1b17380695f3af082f15cfa7facb867" "20231018121851.911":
+  entity mux8 at 1( 0) + 0 on 179;
+  architecture a_mux8 of mux8 at 19( 536) + 2 on 180;
+file . "toplevel.vhd" "adb44eaab3de1aa8d3c88a8c0580a64fabdb08f0" "20231113144219.908":
+  entity toplevel at 1( 0) + 0 on 361;
+  architecture a_toplevel of toplevel at 12( 240) + 0 on 362;
+file . "mux.vhd" "a7c3d9051c76af735a234a92d6fcf3f09f7241e3" "20231018122009.361":
+  entity mux at 1( 0) + 0 on 183;
+  architecture a_mux of mux at 13( 269) + 2 on 184;
+file . "reg16bits.vhd" "e3ed4d9030b09ee65e2403f570afceb9c10841ad" "20231113121624.288":
+  entity reg16bits at 1( 0) + 0 on 309;
+  architecture a_reg16bits of reg16bits at 15( 307) + 0 on 310;
+file . "ula.vhd" "ab2165faab3c5b0a1ecffedbed11d3ac5884eecd" "20231018122124.661":
+  entity ula at 1( 0) + 0 on 185;
+  architecture a_ula of ula at 15( 341) + 2 on 186;
+file . "porta.vhd" "f239ff850d5969de4281d6efc1ed08b18715a7e0" "20230906135546.382":
+  entity porta at 1( 0) + 0 on 11;
+  architecture a_porta of porta at 11( 175) + 2 on 12;
+file . "porta_tb.vhd" "74af81712351cbe15ec5828875e3ced3354fe10a" "20230906141644.595":
+  entity porta_tb at 1( 0) + 0 on 13;
+  architecture a_porta_tb of porta_tb at 7( 75) + 0 on 14;
+file . "ula_tb.vhd" "c5b3c7bc1d6a2227dace493912abb3a5c5ca9a9f" "20231007000508.107":
+  entity ula_tb at 1( 0) + 0 on 89;
+  architecture a_ula_tb of ula_tb at 9( 102) + 0 on 90;
+file . "reg16bits_tb.vhd" "fba6bbc984f4a084f698ffcdfec27e722c45d6eb" "20231003201652.592":
+  entity reg16bits_tb at 1( 0) + 0 on 25;
+  architecture a_reg16bits_tb of reg16bits_tb at 9( 108) + 0 on 26;
+file . "banco_regs.vhd" "3872a0774da862f5821dff77e8b4add70be91e0f" "20231113122709.910":
+  entity banco_regs at 1( 0) + 0 on 315;
+  architecture a_banco_regs of banco_regs at 18( 520) + 0 on 316;
+file . "toplevel_tb.vhd" "382c86bf6e7db0b811b9b1a9ff359696b386cd27" "20231113144228.821":
+  entity toplevel_tb at 1( 0) + 0 on 363;
+  architecture a_toplevel_tb of toplevel_tb at 9( 107) + 0 on 364;
+file . "banco_regs_tb.vhd" "f22087c99b05ed0207661e65f4428fe1adc82a52" "20231006220107.321":
+  entity banco_regs_tb at 1( 0) + 0 on 65;
+  architecture a_banco_regs_tb of banco_regs_tb at 8( 107) + 0 on 66;
+file . "rom_tb.vhd" "303711da8aeccbe490625ab7efb66d0e7248aaef" "20231016213826.560":
+  entity rom_tb at 1( 0) + 0 on 103;
+  architecture a_rom_tb of rom_tb at 9( 102) + 0 on 104;
+file . "st_mach.vhd" "7f4bf8aa9fd86499ee633a62b6ac0227b03f3369" "20231016234650.557":
+  entity st_mach at 1( 0) + 0 on 133;
+  architecture a_st_mach of st_mach at 13( 217) + 0 on 134;
+file . "pc_tb.vhd" "cb8d55135d5ba99e2024987406e278dd60dbd484" "20231017115845.015":
+  entity pc_tb at 1( 0) + 0 on 145;
+  architecture a_pc_tb of pc_tb at 9( 101) + 0 on 146;
+file . "pc_n_soma.vhd" "8d04dbefa4974b80e811988a5d8297a40deccb9f" "20231018144140.318":
+  entity pc_n_soma at 1( 0) + 0 on 215;
+  architecture a_pc_n_soma of pc_n_soma at 16( 363) + 0 on 216;
+file . "soma_um.vhd" "e47ae8dcef23b7c7e9870eaab9c4b6569b00be88" "20231017123534.287":
+  entity soma_um at 1( 0) + 0 on 161;
+  architecture a_soma_um of soma_um at 12( 204) + 0 on 162;
+file . "uc.vhd" "6dc118ac0643661d66b1a25a8c45fbceb8d37f75" "20231113122808.907":
+  entity uc at 1( 0) + 0 on 321;
+  architecture a_uc of uc at 24( 634) + 2 on 322;
+file . "mux7bits.vhd" "6e8d39802475258e0c33cccfad4c633077bff45c" "20231018142736.675":
+  entity mux7bits at 1( 0) + 0 on 209;
+  architecture a_mux7bits of mux7bits at 13( 271) + 2 on 210;
+file . "maq_estados.vhd" "56624859c75f794345def2b4c52112febaea1354" "20231113144203.170":
+  entity maq_estados at 1( 0) + 0 on 357;
+  architecture a_maq_estados of maq_estados at 9( 191) + 0 on 358;
